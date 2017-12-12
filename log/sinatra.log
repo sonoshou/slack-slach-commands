@@ -1,0 +1,7 @@
+# Logfile created on 2017-12-10 16:35:16 +0900 by logger.rb/47272
+I, [2017-12-10T16:35:16.226163 #19507]  INFO -- : {"response_type"=>"in_channel", "text"=>"testtest"}
+I, [2017-12-10T16:35:33.892537 #19507]  INFO -- : {"response_type"=>"in_channel", "text"=>"testtest"}
+I, [2017-12-10T16:37:11.631322 #19922]  INFO -- : {"response_type"=>"in_channel", "text"=>"testtest"}
+I, [2017-12-10T16:43:30.639474 #20295]  INFO -- : {"token"=>"9UL2SltOXurR4ByQ7keTgfqk", "team_id"=>"T4XD1P9GA", "team_domain"=>"shogo-naho", "channel_id"=>"D4WNJL69F", "channel_name"=>"directmessage", "user_id"=>"U4Y3PTCKG", "user_name"=>"sonoshou", "command"=>"/telephone", "text"=>"hoge", "response_url"=>"https://hooks.slack.com/commands/T4XD1P9GA/283872996673/6XSAXfD9WGw4atKzmdNzj02U", "trigger_id"=>"283730800304.167443791554.473b47886953b02566c84d65664c5969"}
+I, [2017-12-10T17:27:34.414628 #22085]  INFO -- : ww
+I, [2017-12-10T17:27:44.144542 #22085]  INFO -- : ww
